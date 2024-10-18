@@ -1,0 +1,2 @@
+Many people believe that learning to code is an essential skill in today's world. The basics of programming 
+involve understanding key concepts such as variables, loops, and functions, and then applying them to solve problems.
